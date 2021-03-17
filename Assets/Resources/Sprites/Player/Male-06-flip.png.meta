@@ -1,0 +1,1102 @@
+fileFormatVersion: 2
+guid: e9cebcae7b0c1f5448f97ff6f3ae0a52
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4752529548369999068
+    second: Male-06-flip_0
+  - first:
+      213: 6023951685511126551
+    second: Male-06-flip_1
+  - first:
+      213: 6563307463793577500
+    second: Male-06-flip_2
+  - first:
+      213: 3251227624150713814
+    second: Male-06-flip_3
+  - first:
+      213: -1069446078055945187
+    second: Male-06-flip_4
+  - first:
+      213: -7589178852955226281
+    second: Male-06-flip_5
+  - first:
+      213: 5721881295521953325
+    second: Male-06-flip_6
+  - first:
+      213: -4204082265928829659
+    second: Male-06-flip_7
+  - first:
+      213: 2377373823034775650
+    second: Male-06-flip_8
+  - first:
+      213: -5706426127811147044
+    second: Male-06-flip_9
+  - first:
+      213: -622606827303969366
+    second: Male-06-flip_10
+  - first:
+      213: 3822378379349458933
+    second: Male-06-flip_11
+  - first:
+      213: 6150103924646095533
+    second: Male-06-flip_12
+  - first:
+      213: -718428673692226202
+    second: Male-06-flip_13
+  - first:
+      213: -121946708712902758
+    second: Male-06-flip_14
+  - first:
+      213: 6627620169009504997
+    second: Male-06-flip_15
+  - first:
+      213: -1097855529739530356
+    second: Male-06-flip_16
+  - first:
+      213: -8839620553417245994
+    second: Male-06-flip_17
+  - first:
+      213: 1991101015375112808
+    second: Male-06-flip_18
+  - first:
+      213: -3800775841703032030
+    second: Male-06-flip_19
+  - first:
+      213: 4150070578293684274
+    second: Male-06-flip_20
+  - first:
+      213: -647041410853294886
+    second: Male-06-flip_21
+  - first:
+      213: 8111025639747263126
+    second: Male-06-flip_22
+  - first:
+      213: 6081872489570504482
+    second: Male-06-flip_23
+  - first:
+      213: 1705621938366609513
+    second: Male-06-flip_24
+  - first:
+      213: 3387440044290358067
+    second: Male-06-flip_25
+  - first:
+      213: -8658363069779845144
+    second: Male-06-flip_26
+  - first:
+      213: -6343476283794547395
+    second: Male-06-flip_27
+  - first:
+      213: -7075824785544013441
+    second: Male-06-flip_28
+  - first:
+      213: 5226433828722945790
+    second: Male-06-flip_29
+  - first:
+      213: 5393192556228727938
+    second: Male-06-flip_30
+  - first:
+      213: 1560064559594016673
+    second: Male-06-flip_31
+  - first:
+      213: -1168864902872320408
+    second: Male-06-flip_32
+  - first:
+      213: -495706370232699734
+    second: Male-06-flip_33
+  - first:
+      213: -5172621561772487347
+    second: Male-06-flip_34
+  - first:
+      213: -4972398827707232505
+    second: Male-06-flip_35
+  - first:
+      213: 4605512193876576445
+    second: Male-06-flip_36
+  - first:
+      213: 8882209538332718846
+    second: Male-06-flip_37
+  - first:
+      213: 4673310245770025616
+    second: Male-06-flip_38
+  - first:
+      213: 2739352365263712696
+    second: Male-06-flip_39
+  - first:
+      213: -4181034423997191924
+    second: Male-06-flip_40
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Male-06-flip_0
+      rect:
+        serializedVersion: 2
+        x: 801
+        y: 1436
+        width: 78
+        height: 149
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42bcbd44e8f9b0eb0800000000000000
+      internalID: -4752529548369999068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male-06-flip_1
+      rect:
+        serializedVersion: 2
+        x: 1068
+        y: 1436
+        width: 79
+        height: 145
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71e91074420699350800000000000000
+      internalID: 6023951685511126551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male-06-flip_2
+      rect:
+        serializedVersion: 2
+        x: 1334
+        y: 1436
+        width: 79
+        height: 149
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1e061b4d5d851b50800000000000000
+      internalID: 6563307463793577500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male-06-flip_3
+      rect:
+        serializedVersion: 2
+        x: 1602
+        y: 1436
+        width: 78
+        height: 149
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d5c0756c4eae1d20800000000000000
+      internalID: 3251227624150713814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male-06-flip_4
+      rect:
+        serializedVersion: 2
+        x: 1869
+        y: 1436
+        width: 77
+        height: 145
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1c6a0b45709821f0800000000000000
+      internalID: -1069446078055945187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male-06-flip_5
+      rect:
+        serializedVersion: 2
+        x: 2135
+        y: 1436
+        width: 78
+        height: 149
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75f72bcda02dda690800000000000000
+      internalID: -7589178852955226281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male-06-flip_6
+      rect:
+        serializedVersion: 2
+        x: 804
+        y: 1190
+        width: 79
+        height: 149
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d26b982f8b4386f40800000000000000
+      internalID: 5721881295521953325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male-06-flip_7
+      rect:
+        serializedVersion: 2
+        x: 1070
+        y: 1190
+        width: 79
+        height: 145
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 525facc047918a5c0800000000000000
+      internalID: -4204082265928829659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male-06-flip_8
+      rect:
+        serializedVersion: 2
+        x: 1338
+        y: 1190
+        width: 79
+        height: 149
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 268dc4c65e02ef020800000000000000
+      internalID: 2377373823034775650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male-06-flip_9
+      rect:
+        serializedVersion: 2
+        x: 1603
+        y: 1190
+        width: 79
+        height: 149
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cda0fc2bba3bec0b0800000000000000
+      internalID: -5706426127811147044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male-06-flip_10
+      rect:
+        serializedVersion: 2
+        x: 1871
+        y: 1190
+        width: 79
+        height: 145
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aad50d7a36e0c57f0800000000000000
+      internalID: -622606827303969366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male-06-flip_11
+      rect:
+        serializedVersion: 2
+        x: 2138
+        y: 1190
+        width: 78
+        height: 149
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5fff14a52e0db0530800000000000000
+      internalID: 3822378379349458933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male-06-flip_12
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 944
+        width: 69
+        height: 137
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: daa24405fee895550800000000000000
+      internalID: 6150103924646095533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male-06-flip_13
+      rect:
+        serializedVersion: 2
+        x: 538
+        y: 944
+        width: 66
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66dae1c7de0a706f0800000000000000
+      internalID: -718428673692226202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male-06-flip_14
+      rect:
+        serializedVersion: 2
+        x: 806
+        y: 944
+        width: 66
+        height: 137
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9fa3a15d12ce4ef0800000000000000
+      internalID: -121946708712902758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male-06-flip_15
+      rect:
+        serializedVersion: 2
+        x: 1073
+        y: 944
+        width: 69
+        height: 137
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e2a608dd690afb50800000000000000
+      internalID: 6627620169009504997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male-06-flip_16
+      rect:
+        serializedVersion: 2
+        x: 1339
+        y: 944
+        width: 69
+        height: 137
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8f4d2f5632a3c0f0800000000000000
+      internalID: -1097855529739530356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male-06-flip_17
+      rect:
+        serializedVersion: 2
+        x: 1606
+        y: 944
+        width: 65
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6dab254e0fb535580800000000000000
+      internalID: -8839620553417245994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male-06-flip_18
+      rect:
+        serializedVersion: 2
+        x: 1872
+        y: 944
+        width: 67
+        height: 137
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86a6a5df2dfc1ab10800000000000000
+      internalID: 1991101015375112808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male-06-flip_19
+      rect:
+        serializedVersion: 2
+        x: 2139
+        y: 944
+        width: 70
+        height: 137
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22b8764628ee04bc0800000000000000
+      internalID: -3800775841703032030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male-06-flip_20
+      rect:
+        serializedVersion: 2
+        x: 535
+        y: 697
+        width: 79
+        height: 149
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 238bef3f333089930800000000000000
+      internalID: 4150070578293684274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male-06-flip_21
+      rect:
+        serializedVersion: 2
+        x: 801
+        y: 697
+        width: 78
+        height: 149
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: adc2f17d34f3507f0800000000000000
+      internalID: -647041410853294886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male-06-flip_22
+      rect:
+        serializedVersion: 2
+        x: 1068
+        y: 697
+        width: 79
+        height: 145
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69a983568d6209070800000000000000
+      internalID: 8111025639747263126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male-06-flip_23
+      rect:
+        serializedVersion: 2
+        x: 1334
+        y: 697
+        width: 79
+        height: 145
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22f021e5ec6276450800000000000000
+      internalID: 6081872489570504482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male-06-flip_24
+      rect:
+        serializedVersion: 2
+        x: 1602
+        y: 697
+        width: 78
+        height: 149
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 968747dbd169ba710800000000000000
+      internalID: 1705621938366609513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male-06-flip_25
+      rect:
+        serializedVersion: 2
+        x: 1869
+        y: 697
+        width: 77
+        height: 149
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33b3cd9d5ca920f20800000000000000
+      internalID: 3387440044290358067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male-06-flip_26
+      rect:
+        serializedVersion: 2
+        x: 2135
+        y: 697
+        width: 78
+        height: 149
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ef596979a057d780800000000000000
+      internalID: -8658363069779845144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male-06-flip_27
+      rect:
+        serializedVersion: 2
+        x: 535
+        y: 451
+        width: 79
+        height: 149
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3d9f47dde177f7a0800000000000000
+      internalID: -6343476283794547395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male-06-flip_28
+      rect:
+        serializedVersion: 2
+        x: 801
+        y: 451
+        width: 78
+        height: 149
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f799ebcc8de9dcd90800000000000000
+      internalID: -7075824785544013441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male-06-flip_29
+      rect:
+        serializedVersion: 2
+        x: 1068
+        y: 451
+        width: 79
+        height: 145
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: efead1b50e5088840800000000000000
+      internalID: 5226433828722945790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male-06-flip_30
+      rect:
+        serializedVersion: 2
+        x: 1334
+        y: 451
+        width: 79
+        height: 145
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2845b473e0878da40800000000000000
+      internalID: 5393192556228727938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male-06-flip_31
+      rect:
+        serializedVersion: 2
+        x: 1602
+        y: 451
+        width: 78
+        height: 149
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1af074d837676a510800000000000000
+      internalID: 1560064559594016673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male-06-flip_32
+      rect:
+        serializedVersion: 2
+        x: 1869
+        y: 451
+        width: 77
+        height: 149
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 866bfd1509b57cfe0800000000000000
+      internalID: -1168864902872320408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male-06-flip_33
+      rect:
+        serializedVersion: 2
+        x: 2135
+        y: 451
+        width: 78
+        height: 149
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa4b161cea5ee19f0800000000000000
+      internalID: -495706370232699734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male-06-flip_34
+      rect:
+        serializedVersion: 2
+        x: 531
+        y: 205
+        width: 73
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4d460568182738b0800000000000000
+      internalID: -5172621561772487347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male-06-flip_35
+      rect:
+        serializedVersion: 2
+        x: 798
+        y: 205
+        width: 74
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70f01f07c9d7efab0800000000000000
+      internalID: -4972398827707232505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male-06-flip_36
+      rect:
+        serializedVersion: 2
+        x: 1064
+        y: 205
+        width: 74
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db84eb470f01aef30800000000000000
+      internalID: 4605512193876576445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male-06-flip_37
+      rect:
+        serializedVersion: 2
+        x: 1327
+        y: 205
+        width: 78
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef678e0e382f34b70800000000000000
+      internalID: 8882209538332718846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male-06-flip_38
+      rect:
+        serializedVersion: 2
+        x: 1597
+        y: 205
+        width: 74
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09ad05488eeead040800000000000000
+      internalID: 4673310245770025616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male-06-flip_39
+      rect:
+        serializedVersion: 2
+        x: 1864
+        y: 205
+        width: 75
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b17b266672240620800000000000000
+      internalID: 2739352365263712696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male-06-flip_40
+      rect:
+        serializedVersion: 2
+        x: 2127
+        y: 205
+        width: 77
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c09a7fbe75bf9f5c0800000000000000
+      internalID: -4181034423997191924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
